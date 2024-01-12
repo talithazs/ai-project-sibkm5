@@ -25,7 +25,7 @@ This project is beneficial for businesses, researchers, and consumers seeking a 
 
 [Application Sentiment Analysis](https://ai-project-sibkm5-yac9ljydj9wbzpn34ih3kt.streamlit.app/)
 
-[Video Presentation](XX)
+[Video Presentation](https://youtu.be/kE7CTU9VhLQ)
 
 
 
